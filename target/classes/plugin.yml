@@ -1,0 +1,4 @@
+name: ArrowControl
+version: '1.0'
+main: org.curryman.arrowcontrol.ArrowControl
+api-version: '1.20'

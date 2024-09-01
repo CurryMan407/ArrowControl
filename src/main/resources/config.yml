@@ -1,0 +1,23 @@
+#--------------
+#
+#Arrow Control
+#By CurryMan, For Fusion Network
+#
+#--------------
+
+
+
+
+
+
+
+
+enabled: true
+#Should the plugin do its job
+#true = it WILL block shooting tipped arrows
+#false = it WON'T block shooting tipped arrows
+
+
+send-message: true
+#Should it send a message to a player when they try shoot a tipped arrow
+#options are true or false
